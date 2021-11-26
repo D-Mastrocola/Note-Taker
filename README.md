@@ -1,5 +1,7 @@
 # Note-Taker
+![Screenshot](https://github.com/D-Mastrocola/Note-Taker/blob/main/images/screenshot.PNG)
 
+[Live](https://hidden-forest-76295.herokuapp.com)
 
 ## User Story 
 
@@ -22,3 +24,11 @@
 - THEN that note appears in the right-hand column
 - WHEN I click on the Write icon in the navigation at the top of the page
 - THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
+
+## Install Instructions
+To install run ```npm install``` or ```yarn install``` in the root directory
+
+## Usage Instrucitons
+Run ```npm start``` to start the server
+
+Go to [Localhost](http://localhost:3001)
