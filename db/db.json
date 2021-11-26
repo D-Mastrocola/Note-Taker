@@ -1,23 +1,9 @@
 {
   "notes": [
     {
-      "title": "Test Title",
-      "text": "Test text"
-    },
-    {
       "title": "Finish Homework",
-      "text": "fdasfdasfsd",
-      "id": "9d3a4380-4e0f-11ec-bc29-bbabb9a7f787"
-    },
-    {
-      "title": "dfafads",
-      "text": "dsafsdafs",
-      "id": "a6611920-4e0f-11ec-bc29-bbabb9a7f787"
-    },
-    {
-      "title": "fadsf",
-      "text": "fdsafasdf",
-      "id": "ac1d7390-4e0f-11ec-bc29-bbabb9a7f787"
+      "text": "Get homework done",
+      "id": "891d9210-4e66-11ec-9e58-0fa0569b123c"
     }
   ]
 }

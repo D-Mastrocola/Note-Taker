@@ -18,11 +18,9 @@ router.post("/notes", (req, res) => {
   if (!validateNote(req.body)) {
     res.status(400).send("The note is not properly formatted.");
   } else {
-    console.log('adding note');
     const note = addNote(req.body, notes);
     res.json(note);
   }
-  res.status(200).send('finished')
 });
 
 // DELETE "/api/notes" deletes the note with an id equal to req.params.id
